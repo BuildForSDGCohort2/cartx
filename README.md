@@ -1,2 +1,2 @@
 # cartx
-A simpler way for SMEs to sell online
+An easier way for SMEs to sell online
